@@ -2,6 +2,7 @@
 layout: rule
 title: Do you understand the value of consistency?
 number: 1
+description: Do you understand the value of consistency
 ---
 
 # Do you understand the value of consistency
