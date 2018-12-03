@@ -1,8 +1,3 @@
----
-layout: rule
-title: Do you understand the value of consistency?
-number: 1
----
 
 # Do you understand the value of consistency
 
