@@ -2,7 +2,6 @@
 layout: rule
 title: Do you understand the value of consistency?
 number: 1
-description: Do you understand the value of consistency
 ---
 
 # Do you understand the value of consistency
@@ -11,7 +10,7 @@ If you need to do something more than once, then there should be a standard for 
 
 
 
-![Caption for he Image](../.gitbook/assets/consitency.png)
+![Caption for he Image](../../.gitbook/assets/consitency.png)
 
 Say we are creating a windows forms application. We can expect to:
 
