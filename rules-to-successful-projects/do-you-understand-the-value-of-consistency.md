@@ -1,9 +1,8 @@
-
 # Do you understand the value of consistency
 
-If you need to do something more than once, then there should be a standard for it. At the heart of our philosophy on creating rules and standards is the idea of consistency. There are 4 main benefits you will get:
+a bit of new text
 
-
+I**f you n**eed to do something more than once, then there should be a standard for it. At the heart of our philosophy on creating rules and standards is the idea of consistency. There are 4 main benefits you will get:
 
 ![Caption for he Image](../.gitbook/assets/consitency.png)
 
